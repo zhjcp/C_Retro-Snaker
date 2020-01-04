@@ -1,0 +1,5 @@
+﻿  snake.c
+C:\Users\朱华\source\repos\贪吃蛇\贪吃蛇\snake.c(4,9): warning C4067:  预处理器指令后有意外标记 - 应输入换行符
+C:\Users\朱华\source\repos\贪吃蛇\贪吃蛇\snake.h(36,2): warning C4091:  “typedef ”: 没有声明变量时忽略“DataStruct”的左侧
+C:\Users\朱华\source\repos\贪吃蛇\贪吃蛇\snake.c(1049,6): warning C4102:  “start”: 未引用的标签
+  贪吃蛇.vcxproj -> C:\Users\朱华\source\repos\贪吃蛇\Debug\贪吃蛇.exe
